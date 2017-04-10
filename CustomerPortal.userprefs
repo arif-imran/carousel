@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{7E4A4C1A-DF5F-425C-8227-1D372D1FADF4}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Downloads/xamarin-forms-carouselview-master/src/CustomLayouts/ViewModels/BaseViewModel.cs">
+    <Files>
+      <File FileName="../Monkeys/Monkeys/obj/Debug/Monkeys.Views.MonkeysPage.xaml.g.cs" Line="1" Column="1" />
+      <File FileName="../../Downloads/xamarin-forms-carouselview-master/src/CustomLayouts/HomePage.cs" Line="56" Column="8" />
+      <File FileName="../../Downloads/xamarin-forms-carouselview-master/src/CustomLayouts/HomeView.cs" Line="1" Column="1" />
+      <File FileName="../../Downloads/xamarin-forms-carouselview-master/src/CustomLayouts/PagerIndicatorDots.cs" Line="36" Column="5" />
+      <File FileName="../../Downloads/xamarin-forms-carouselview-master/src/CustomLayouts/App.cs" Line="12" Column="45" />
+      <File FileName="../../Downloads/xamarin-forms-carouselview-master/src/CustomLayouts/SwitcherPage.cs" Line="21" Column="78" />
+      <File FileName="../../Downloads/xamarin-forms-carouselview-master/src/CustomLayouts/ViewModels/SwitcherPageViewModel.cs" Line="13" Column="64" />
+      <File FileName="../../Downloads/xamarin-forms-carouselview-master/src/CustomLayouts/ViewModels/BaseViewModel.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mac/Projects/CustomerPortal/CustomerPortal/Views/ColorsPage.xaml.cs" relfile="CustomerPortal/Views/ColorsPage.xaml.cs" line="42" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../Documents/Grosvenor/GEuropeInvestorApp/GEuropeMobile/Grosvenor.ios/ResourcesView/TimeFilterCollectionViewSource.cs" line="57" offsetX="667" offsetY="840" expression="collectionView.IEnumerator" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.CustomerPortal.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B40B75B2-4573-4570-830B-65571957FB13" />
+  <MonoDevelop.Ide.ItemProperties.CustomerPortal.Droid PreferredExecutionTarget="Android.31007072230eb200" />
+  <MultiItemStartupConfigurations />
+</Properties>
